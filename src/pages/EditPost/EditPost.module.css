@@ -1,0 +1,48 @@
+.edit_post{
+    text-align: center;
+}
+
+.edit_post h2 {
+    font-size: 2.2em;
+}
+
+.edit_post p {
+    color: #AAA;
+    margin-bottom: 2em;
+}
+
+.edit_post .preview_title{
+    margin-bottom: 1em;
+    color: black;
+    font-weight: bold;
+}
+
+.image_preview{
+    max-width: 100%;
+    margin-bottom: 1em;
+}
+
+.divButton{
+    padding-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.botaoCancelar {
+    background-color: hsl(0, 100%, 50%);
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 120px;
+    font-weight: bold;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1em;
+}
+
+.botaoCancelar:hover{
+    background-color: #DC3545;
+    color: #FFF;
+}

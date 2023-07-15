@@ -1,0 +1,14 @@
+.register {
+    text-align: center;
+}
+
+.register p {
+    color: #aaa;
+}
+p.userOk{
+    background-color: rgb(16, 240, 16);
+    width: 400px;
+    color: #000;
+    margin: 45px auto;
+    border-radius: 10px;
+}
